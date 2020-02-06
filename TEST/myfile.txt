@@ -1,2 +1,4 @@
 this is a text file
 we've edited the file on the browser
+
+this is a bug fix test
